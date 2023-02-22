@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-booth-374422",
+  "private_key_id": "b984400bb025a7e1de14ab0f085c81e601baf12c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+yHg8vwgVT4zS\nDw67xz8VoKktPifI4xWoljdxOMxuTpqNqSNIb02yzQIIXsRk/k8L8wRzRAE06N18\nYFmhEStgIjnZHXNZkP/mBMHK+VL6NbM02cREL2HFPoIwCLjp9i+oFFM7UoFLAbrz\nxZpnP+i/DLW37kBuGTmEq/Id7N2GjCuxKaHqtnj+JFpXsUNK+BekByIU4/T0TQOF\nXMIDWrrLelfVG9XaBaD6uZ12tDCS4LpOurfp4S/qGb2+sB//P8lOlgwXTI1BNbDS\n6q4M1yd8PtHUPz/QAuO0lRUB+i7OOJt0UlQsL0jbcf3WG1g4ck/8okjC91uWRvJc\nuvhyzIp3AgMBAAECggEATzvOw9vKrZ8WKv9Z7R640nChEksoFsRI8HVCnWErdfxr\nL745CxI+wK1n1LYW9qKvjZTmGkD6B1FW+xrA3qXUz94nDEaw61fPD2aWXYfisEux\nG5f9bRwIjPSC+RQGSBSYgkO+tXp0fARB8o/0qkDelsnehn8Kfy82tiT7LvZ6oi/I\nkMqmsVl0OM5bqboAThG9fMNzDQI4mtSdWosrneCHgy07Tu9QVkwtsyJFX20Ylj8c\n1njN4CYyDyTC9XxCgKTuB2tfZT3hxyNVwSJvHmLxRnTHHNMPEyPNWlceHsLW8oBP\noUky6j+O1fPYl/up6XeOb7b+mB24yPkkxyPQBgBsoQKBgQDws1NQq0lI9r8CZyl/\n2JcmJT5l48Q6BWD8z2FTS8b7kZ1OmFNWzjJ59eZQzjGyevwlK8fp+7FCUowQ9y8/\nam9bOijFCTdlxiCdMmbawb3+lRvUbvu4gVct7oe03ZiflxmO4zKKTwFuNaJHDJ9n\nhasXfm7Bd+9QXEECxCQ2i5o/zwKBgQDK6OOVg17p/id4LlPwSq/XV9YcjocemnLh\nkSBWnDl1o8zpEaS+Rh2RryQlC4IPTWApQkWzmtDa3MU97FyXP0kYxKxrL3EEmG+b\nIzs7JEC5AFyhi3esfrS8F8NeUY5oZTv14m/KSHRKmNgZPvAn9GVxC8KQpotbBEfV\nXuiX7/VM2QKBgEtwKKCTzngrvVnHc146R8UQzymn5Qw6O1eAt4Qfr9GQpbjITPZb\n0b4fr3uL5E+H9BbCTfmrhLbAoF2A2zII7bWt2LFIXjBrlDUwYsQVDLMJkJtX3VTK\nVMR0idvJx9fcx4nc8y4d7NjZvm5+KkeLwT+vxI6mRD7vawCu8JqXzlRJAoGADC+w\ne2pIaQU6mZ0urV/O77/2vABTXSMpgyKULp9zU/1icRz+J+9OF1HNeewXA5RCEjhI\nt2C06nAX6IApj2vdl/8327gdsYj2KvsSs5qZyIKdDZayuUli0Wkb8q4zP1HVKA9R\nZ3Syh0hmsh11jvC+putt5AIcnHrFVas9jOJ8eQECgYEAoetcZwMXED68c8TyvZv+\nmdVa+2Sb3GDjDWqR4Q7HAsKTXq5TTbdQ0f66WdWb5HI8mqjhKlzcYo44GR7fTMNE\n3Ps5FBDhU6XZPnGLuIBTXrq/+doc/X118ZyijcnzpdqmfMsLc5+H3dlJ/rkp2SdC\n2b73a4ap8AaAQmHQmgwidhY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "robame@carbide-booth-374422.iam.gserviceaccount.com",
+  "client_id": "106343827490855880760",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robame%40carbide-booth-374422.iam.gserviceaccount.com"
+}
